@@ -1,0 +1,107 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyDocstringTypesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyIncorrectDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="38">
+            <item index="0" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="1" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="2" class="java.lang.String" itemvalue="defer" />
+            <item index="3" class="java.lang.String" itemvalue="Brlapi" />
+            <item index="4" class="java.lang.String" itemvalue="folder-color-caja" />
+            <item index="5" class="java.lang.String" itemvalue="onboard" />
+            <item index="6" class="java.lang.String" itemvalue="python-xapp" />
+            <item index="7" class="java.lang.String" itemvalue="duplicity" />
+            <item index="8" class="java.lang.String" itemvalue="ufw" />
+            <item index="9" class="java.lang.String" itemvalue="pycups" />
+            <item index="10" class="java.lang.String" itemvalue="cajarename" />
+            <item index="11" class="java.lang.String" itemvalue="pycairo" />
+            <item index="12" class="java.lang.String" itemvalue="apturl" />
+            <item index="13" class="java.lang.String" itemvalue="PyGObject" />
+            <item index="14" class="java.lang.String" itemvalue="python-debian" />
+            <item index="15" class="java.lang.String" itemvalue="distro-info" />
+            <item index="16" class="java.lang.String" itemvalue="deja-dup-caja" />
+            <item index="17" class="java.lang.String" itemvalue="cupshelpers" />
+            <item index="18" class="java.lang.String" itemvalue="mate-tweak" />
+            <item index="19" class="java.lang.String" itemvalue="systemd-python" />
+            <item index="20" class="java.lang.String" itemvalue="Magnus" />
+            <item index="21" class="java.lang.String" itemvalue="louis" />
+            <item index="22" class="java.lang.String" itemvalue="language-selector" />
+            <item index="23" class="java.lang.String" itemvalue="mate-hud" />
+            <item index="24" class="java.lang.String" itemvalue="unattended-upgrades" />
+            <item index="25" class="java.lang.String" itemvalue="gpg" />
+            <item index="26" class="java.lang.String" itemvalue="ubuntu-drivers-common" />
+            <item index="27" class="java.lang.String" itemvalue="xkit" />
+            <item index="28" class="java.lang.String" itemvalue="mate-menu" />
+            <item index="29" class="java.lang.String" itemvalue="python-apt" />
+            <item index="30" class="java.lang.String" itemvalue="ubuntu-advantage-tools" />
+            <item index="31" class="java.lang.String" itemvalue="folder-color-common" />
+            <item index="32" class="java.lang.String" itemvalue="dbus-python" />
+            <item index="33" class="java.lang.String" itemvalue="command-not-found" />
+            <item index="34" class="java.lang.String" itemvalue="core" />
+            <item index="35" class="java.lang.String" itemvalue="decouple" />
+            <item index="36" class="java.lang.String" itemvalue="psycopg2-binary-2.9.1" />
+            <item index="37" class="java.lang.String" itemvalue="psycopg" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N801" />
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PySingleQuotedDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pyspark-stubs==3.0.0.post2" />
+          <option value="pika-stubs==0.1.3" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="data_science.stage.hubspot.hubspot.lib" />
+          <option value="data_science.stage.hubspot.hubspot.tools" />
+          <option value="transformations.integration.integration.elastic_proposal_address" />
+          <option value="transformations.integration.integration.elastic_proposal" />
+          <option value="transformations.integration.integration.elastic_user" />
+          <option value="transformations.integration.integration.elastic_company" />
+          <option value="transformations.integration.integration.pipefy_card" />
+          <option value="transform.integration.integration.elastic_proposal_address" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
