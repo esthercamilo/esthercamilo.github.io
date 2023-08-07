@@ -1,6 +1,6 @@
 ---
 title: "Estratégia de dados"
-keywords: sample homepage
+keywords: python dados análise
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
