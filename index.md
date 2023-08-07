@@ -1,7 +1,7 @@
 ---
 title: "Estratégia de dados"
 keywords: python dados análise
-tags: [getting_started]
+tags: [estatística]
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
