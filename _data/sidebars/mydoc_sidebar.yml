@@ -108,7 +108,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigation
+  - title: Sociedade
     output: web, pdf
 
     folderitems:
@@ -116,8 +116,8 @@ entries:
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
 
-    - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
+    - title: Situação de rua
+      url: /mydoc_situacao_de_rua.html
       output: web, pdf
 
     - title: Tags
