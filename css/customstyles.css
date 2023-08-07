@@ -584,7 +584,7 @@ a[data-toggle] {
 }
 
 .summary:before {
-    content: "Summary: ";
+    content: "Introdução: ";
     font-weight: bold;
 }
 
