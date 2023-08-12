@@ -28,19 +28,23 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Estatística
+      url: /estatistica.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Aprendizagem de máquina
+      url: /machine_learning.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Engenharia de dados
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: MLOps
+      url: /mydoc_support.html
+      output: web, pdf
+
+    - title: GPT
       url: /mydoc_support.html
       output: web, pdf
 
