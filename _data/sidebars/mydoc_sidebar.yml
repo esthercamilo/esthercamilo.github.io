@@ -261,4 +261,8 @@ entries:
       url: /resume.html
       output: web
 
+    - title: Projetos
+      url: /projetos.html
+      output: web
+
 # Copyright 2021 Google LLC
