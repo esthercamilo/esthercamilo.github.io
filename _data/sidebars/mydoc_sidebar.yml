@@ -258,7 +258,7 @@ entries:
     folderitems:
 
     - title: Resume
-      url: /mydoc_tag_archives_overview.html
+      url: /resume.html
       output: web
 
       subfolders:
