@@ -3,15 +3,15 @@ title: Release notes 6.0
 tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
-summary: "Version 6.0 of the Documentation theme for Jekyll, released July 4, 2016, implements relative links so you can view the files offline or on any server without configuring urls and baseurls. Additionally, you can store pages in subdirectories. Templates for alerts and images are available."
+summary: "Resumo sobre análise de variantes"
 sidebar: mydoc_sidebar
-permalink: mydoc_release_notes_60.html
+permalink: analise_de_variantes.html
 folder: mydoc
 ---
 
 ## Relative links
 
-You can now view the site offline rather than solely through the Jekyll preview server or deployed on a web server. The linking approach in both the sidebar and with inline links uses relative linking throughout.
+[![Gnomade](https://esthercamilo.github.io/images/gnomade_youtube.png)](https://www.youtube.com/watch?v=_yDWXn-NeW0)
 
 ## Subfolders for pages
 

@@ -1,8 +1,8 @@
 ---
 title: Resume
-keywords: archives, tagging
+keywords: resume, Esther
 last_updated: July 3, 2016
-tags: [navigation]
+tags: [resume, Esther]
 summary: "Formação interdisciplinar e tradução de conceitos científicos em práticas empresariais"
 sidebar: mydoc_sidebar
 permalink: resume.html
