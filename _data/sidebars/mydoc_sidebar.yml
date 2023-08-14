@@ -236,11 +236,11 @@ entries:
       url: /mydoc_kb_layout.html
       output: web, pdf
 
-    - title: Glossary layout
+    - title: Blockchain
       url: /mydoc_glossary.html
       output: web, pdf
 
-    - title: FAQ layout
+    - title: NLP
       url: /mydoc_faq_layout.html
       output: web, pdf
 

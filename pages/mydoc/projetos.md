@@ -10,10 +10,13 @@ toc: false
 ---
 
 ## Esteira para geração de laudo farmacogenético
-    xyz
+Os detalhes e tecnologias utilizados no projeto são confidenciais, mas em linhas gerais, construímos um pipeline
+para obtenção dos dados, análises farmacogenéticas, confecção e disponibilização dos laudos em PDF.
+Construímos também sandbox de criação e experimentação para a equipe de P&D. 
+Contratante: Gntech Exames S/A
 
 ## SigmAPI
-    xyz
+  xyz
 
 
 ## posdoc vai aqui

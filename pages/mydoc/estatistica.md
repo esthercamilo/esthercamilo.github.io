@@ -5,26 +5,32 @@ permalink: estatistica.html
 folder: mydoc
 ---
 
-## Overview
+## Introdução
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+Estatística é uma ferramenta essencial para lidar com incertezas, entender padrões em dados e tomar decisões informadas.
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+### Decisão informada a partir do valor esperado
+O valor esperado é a média ponderada dos resultados de um conjunto de eventos aleatório. Para um dado de 6 faces
+as probabilidades de cada face é igual e vale 1/6. Sendo assim, o valor esperado é 
+(1 * 1/6) + (2 * 1/6) + (3 * 1/6) + (4 * 1/6) + (5 * 1/6) + (6 * 1/6) = (1 + 2 + 3 + 4 + 5 + 6) / 6 = 3.5
 
-## Survey of features
+O que isso significa?
+Significa que a média dos resultados do lançamento do dado se aproxima de 3,5.
 
-Some of the more prominent features of this theme include the following:
+Mas pra quê isso serve? Eu preciso predizer a face e não a média das faces!
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+1. Serve para você não se aventurar em situações impossíveis. Por exemplo:
 
-## Getting started
+   Considere um jogo onde você ganha 10 reais toda vez que o dado apresenta face 6. O custo para cada jogada é 8 reais.
+   Vale ou não vale a pena jogar?
 
-To get started, see [Getting Started][index].
+2. Serve para você não fazer inferência irreais:
+
+
+E se as faces fossem animais: leão, tigre, urso, cachorro, gato, pato? Qual seria o valor esperado? Faz sentido esse
+conceito?
+
+
+
 
 {% include links.html %}
