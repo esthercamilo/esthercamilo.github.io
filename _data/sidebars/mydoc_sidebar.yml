@@ -244,8 +244,8 @@ entries:
       url: /mydoc_faq_layout.html
       output: web, pdf
 
-    - title: Shuffle layout
-      url: /mydoc_shuffle.html
+    - title: CI/CD
+      url: /ci_cd.html
       output: web, pdf
 
   - title: Troubleshooting

@@ -1,10 +1,10 @@
 ---
-title: Introduction
+title: Estatística exploratória e inferêncial
 sidebar: mydoc_sidebar
 permalink: estatistica.html
 folder: mydoc
+toc: false
 ---
-
 ## Introdução
 
 Estatística é uma ferramenta essencial para lidar com incertezas, entender padrões em dados e tomar decisões informadas.
