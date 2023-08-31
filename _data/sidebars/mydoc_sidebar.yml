@@ -232,29 +232,28 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: React
-      url: /mydoc_kb_layout.html
-      output: web, pdf
-
     - title: Blockchain
       url: /mydoc_glossary.html
-      output: web, pdf
-
-    - title: NLP
-      url: /mydoc_faq_layout.html
       output: web, pdf
 
     - title: CI/CD
       url: /ci_cd.html
       output: web, pdf
 
-  - title: Troubleshooting
-    output: web, pdf
+    - title: Docker
+      url: /docker.html
+      output: web, pdf
 
-    folderitems:
+    - title: NLP
+      url: /mydoc_faq_layout.html
+      output: web, pdf
 
-    - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
+    - title: React
+      url: /mydoc_kb_layout.html
+      output: web, pdf
+
+    - title: TDD
+      url: /tdd.html
       output: web, pdf
 
   - title: Autor

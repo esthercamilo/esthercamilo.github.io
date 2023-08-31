@@ -24,8 +24,8 @@ Ou seja, o indivíduo que nada tinha a ver com a correção era afetado por indi
 Sim, há outras soluções para esse problema. Porém decidimos que era momento de "containerizar" nossas aplicações também 
 por outros motivos, dentre eles:
 
-- facilitar a criação de ambiestes de testes e homologação;
-- ter mais controle sobre as depedências a serem instaladas;
+- facilitar a criação de ambientes de testes e homologação;
+- mais controle sobre as depedências a serem instaladas;
 - e finalmente e talvez o mais importante: implantar testes automatizados.
 
 Descobrimos porém, que somente a containerização não era a solução completa de que precisávamos.
