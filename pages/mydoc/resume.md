@@ -35,4 +35,7 @@ toc: false
 [Plataforma Lattes](http://lattes.cnpq.br/4959316579603777)
 
 
+<a target="\_blank" class="noCrossRef" href="{{ "pdf/resume.pdf"}}"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Resume PDF </button></a>
+
+
 {% include links.html %}

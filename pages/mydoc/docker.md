@@ -1,5 +1,5 @@
 ---
-title: Supported features
+title: Docker
 tags:
   - docker
 keywords: "docker"
@@ -9,6 +9,7 @@ published: true
 sidebar: mydoc_sidebar
 permalink: docker.html
 folder: mydoc
+toc: false
 ---
 
 ## O que é docker
