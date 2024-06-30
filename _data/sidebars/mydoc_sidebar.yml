@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Visão Geral
+  - title: Overview
     output: web, pdf
     folderitems:
 
