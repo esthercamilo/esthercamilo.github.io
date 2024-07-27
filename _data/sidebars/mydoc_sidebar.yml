@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Motivação
+    - title: Motivation
       url: /index.html
       output: web, pdf
       type: homepage
