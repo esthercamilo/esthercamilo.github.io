@@ -64,7 +64,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Modelagem de Bancos de dados
+  - title: Bancos de dados
     output: web, pdf
 
     folderitems:
