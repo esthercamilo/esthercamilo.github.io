@@ -13,6 +13,6 @@ jobs:
           ruby-version: 3.1
           bundler-cache: true
       - name: build
-        run: script/bootstrap
+        run: bundle install
       - name: test
-        run: script/cibuild
+        run: bundle exec jekyll build
