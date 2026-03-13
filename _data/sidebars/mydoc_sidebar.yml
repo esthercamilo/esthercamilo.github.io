@@ -69,7 +69,7 @@ entries:
 
     folderitems:
 
-    - title: Mundo
+    - title: Abstração de dados
       url: /mydoc_abstracao.html
       output: web, pdf
 

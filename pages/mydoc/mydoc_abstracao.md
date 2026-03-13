@@ -9,24 +9,13 @@ permalink: mydoc_abstracao.html
 folder: mydoc
 ---
 
-## Abstração de dados
+## Classificação
 
-blablabla
+## Composição
 
-## Allowed frontmatter
+## Agregação
 
-The frontmatter you can use with posts is as follows:
-
-```yaml
----
-title: My sample post
-tags: content_types
-keywords: pages, authoring, exclusion, frontmatter
-sidebar: mydoc_sidebar
-permalink: mydoc_pages.html
-summary: "This is some summary frontmatter for my sample post."
----
-```
+## Generalização
 
 
 {% include links.html %}
