@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Visão geral
     output: web, pdf
     folderitems:
 
-    - title: Motivation
+    - title: Motivação
       url: /index.html
       output: web, pdf
       type: homepage

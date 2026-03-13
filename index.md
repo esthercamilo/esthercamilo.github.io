@@ -1,5 +1,5 @@
 ---
-title: "Estratégia de dados"
+title: "Aprendizado de Máquina para Dados Biomédicos"
 keywords: python dados análise
 tags: [ estatística ]
 sidebar: mydoc_sidebar

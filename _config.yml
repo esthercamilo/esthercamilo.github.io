@@ -3,13 +3,13 @@ repository: esthercamilo/esthercamilo.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Estratégia de Dados
+topnav_title: Aprendizado de Máquina para Dados Biomédicos
 # this appears on the top navigation bar next to the home button
 
 site_title: Publicações
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Motiva Serviços ME 2023
+company_name: Esther Reis, PhD
 # this appears in the footer
 
 github_editme_path:
