@@ -20,7 +20,7 @@ Trabalho com quem entende que dado é ativo financeiro.
 ### Contato
 Agendamentos de diagnóstico via Cal.com. Se o seu projeto não tem base técnica ou disposição para execução real, não perca seu tempo nem o meu.
 
-[Agendar Diagnóstico](https://estherreis.github.io/)
+[Agendar Diagnóstico](https://cal.com/esther-camilo-owgh8a)
 
 ---
 Mantido via Terminal Ubuntu | © Esther Reis, PhD
