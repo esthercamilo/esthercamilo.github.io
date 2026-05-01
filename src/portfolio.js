@@ -7,7 +7,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Oi, eu sou a Esther",
+  title: "Inteligência Estatística | Engenharia de Dados | Estratégia de Equity",
   logo_name: "Esther Camilo",
   nickname: "Esther Camilo",
   subTitle:
