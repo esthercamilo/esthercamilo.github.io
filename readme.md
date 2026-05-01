@@ -24,7 +24,7 @@ Acredito no skin in the game. Se o seu projeto tem potencial de escala, o capita
 ### Blindagem e Estratégia
 Entendo que, ao captar recursos ou estruturar uma sociedade, as leis de valores mobiliários e o rigor da CVM/SEC não são opcionais. Minha consultoria garante que a base estatística do seu negócio seja à prova de balas para auditorias e investidores.
 
-[Agendar Diagnóstico via Cal.com](https://estherreis.github.io/)
+[Agendar Diagnóstico via Cal.com](https://cal.com/esther-camilo-owgh8a)
 
 ---
 Mantido via Terminal Ubuntu | © Dra. Esther Reis
