@@ -9,7 +9,7 @@ Cientista de Dados com doutorado e foco em viabilidade técnica de negócios. N�
 ### Trajetória de Execução
 *   **Inteligência Bancária:** Extração e análise massiva de DREs (Finaxis) para identificação de margens ocultas e inteligência competitiva.
 *   **Health Tech:** Modelagem preditiva e rigor metodológico para validação de teses científicas e escala de operações.
-*   **Soberania Técnica:** Fluxos de trabalho construídos em ambiente Linux/Ubuntu. Automação de processamento de dados e mídia (FFmpeg) via código.
+*   **Soberania Técnica:** Fluxos de trabalho construídos em ambiente Linux/Ubuntu. 
 
 ### Modelos de Negócio
 Trabalho com quem entende que dado é ativo financeiro.
