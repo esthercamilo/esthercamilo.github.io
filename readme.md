@@ -3,8 +3,6 @@
     <img src="images/theme.gif" align="center" width="200" alt="Esther Reis, PhD" />
     </a>
 </p>
-
-<h1 align="center">Esther Reis, PhD</h1>
 <p align="center">Inteligência Estatística | Engenharia de Dados | Estratégia de Equity</p>
 
 Cientista de Dados com doutorado e foco em viabilidade técnica de negócios. Não vendo "melhoria de página" ou dashboards coloridos. Entrego infraestrutura estatística e inteligência de dados para quem precisa de tração real e auditoria de ativos.
